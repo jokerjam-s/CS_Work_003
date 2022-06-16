@@ -23,8 +23,8 @@ int aX, bX, aY, bY, aZ, bZ;
 
 aX = InputNum("Input coordinate X for point A: ");
 aY = InputNum("Input coordinate Y for point A: ");
-aZ = InputNum("Input coordinate Z for point B: "); 
-bX = InputNum("Input coordinate X for point A: ");
+aZ = InputNum("Input coordinate Z for point A: "); 
+bX = InputNum("Input coordinate X for point B: ");
 bY = InputNum("Input coordinate Y for point B: ");
 bZ = InputNum("Input coordinate Z for point B: ");
 
